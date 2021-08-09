@@ -1,10 +1,10 @@
 ### Hi there I'm Oleksandr begginer Software Engineer👋 
 
-
+<a href="skype:a.palamar4uck?chat">a.palamar4uck</a>
 
 <br />
 - 🌱 I’m currently learning ... .NET Core
-- 📫 How to reach me: ...  <a href="skype:a.palamar4uck?chat">a.palamar4uck</a>
+- 📫 How to reach me: ...  
 
 -->
 
