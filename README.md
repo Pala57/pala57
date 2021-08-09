@@ -1,17 +1,13 @@
-### Hi there 👋
+### Hi there I'm Oleksandr begginer Software Engineer👋 
 
 
 
 <br />
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... my website
 - 🌱 I’m currently learning ... ASP.NET
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
 - 📫 How to reach me: ... live:a.palamar4uck
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I love play basketball and watch NBA games
 -->
 
 <br />
