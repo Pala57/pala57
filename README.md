@@ -1,14 +1,8 @@
 ### Hi there I'm Oleksandr begginer Software Engineer👋 
 
-<br />
 - 🌱 I’m currently learning **.NET Core**.
 - 📫 How to reach me: ...  a.palamar4uck@gmail.com
--->
-- 🌱 I’m currently learning **.NET Core**, **Docker**, **Git**, **TypeScript**, **Distributed Systems**, **Microservices**.
-- 👯 I’m looking to collaborate on challenging enterprise projects, frameworks, and tools for developers.
-- 🤔 I’m looking for help with finding time for all of the good stuff.
-- 💬 Ask me about .NET and Business Analysis.
-- 😄 Pronouns: he/him.
+
 <br />
 
 ### Languages and Tools:
