@@ -3,11 +3,9 @@
 
 
 <br />
+- 🌱 I’m currently learning ... .NET Core
+- 📫 How to reach me: ...  <a href="skype:a.palamar4uck?chat">a.palamar4uck</a>
 
-- 🔭 I’m currently working on ... my website
-- 🌱 I’m currently learning ... ASP.NET
-- 📫 How to reach me: ...  live:a.palamar4uck
-- ⚡ Fun fact: ... I love play basketball and watch NBA games
 -->
 
 <br />
