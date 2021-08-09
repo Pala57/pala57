@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ... my website
 - 🌱 I’m currently learning ... ASP.NET
-- 📫 How to reach me: ... live:a.palamar4uck
+- 📫 How to reach me: ... * live:a.palamar4uck
 - ⚡ Fun fact: ... I love play basketball and watch NBA games
 -->
 
