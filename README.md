@@ -4,6 +4,7 @@
 
 <br />
 - 🌱 I’m currently learning ... .NET Core.
+- 
 - 📫 How to reach me: ...  a.palamar4uck@gmail.com
 
 -->
